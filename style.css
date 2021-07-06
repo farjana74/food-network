@@ -104,12 +104,13 @@ p {
 .last {
     width: 100%;
     height: 250px;
-    background-color: black;
+    background-image: linear-gradient(orange, tomato);
     padding-top: 20px;
 }
 
 .footer {
     text-align: center;
+
 
 
 
